@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfischerw&hide=html&layout=compact=true&theme=dark)](https://github.com/lucasfischerw/)
+[![card](https://github-readme-stats.vercel.app/api?username=lucasfischerw&theme=dark&show_icons=true)](https://github.com/lucasfischerw/)
+[![lucasfischerw](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfischerw&hide=html&layout=compact&theme=dark)](https://github.com/lucasfischerw/)
