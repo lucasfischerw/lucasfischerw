@@ -12,9 +12,17 @@ I am Lucas Fischer, a technology enthusiast that loves Robotics and Programming 
 - ☕ Fun fact: I only drink coffee with sugar
 
 
+---
 </br>
 
-<div style="display: flex;">
-  [![card](https://github-readme-stats.vercel.app/api?username=lucasfischerw&theme=dark&show_icons=true)](https://github.com/lucasfischerw/)
-  [![lucasfischerw](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfischerw&hide=html&layout=compact&theme=dark)](https://github.com/lucasfischerw/)
-</div>
+[![card](https://github-readme-stats.vercel.app/api?username=lucasfischerw&theme=dark&show_icons=true)](https://github.com/lucasfischerw/)
+[![lucasfischerw](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfischerw&hide=html&layout=compact&theme=dark)](https://github.com/lucasfischerw/)
+
+</br>
+
+---
+
+
+ - 💻 Check out my Website [here](https://www.lucasfischer.com.br)
+ - 🙅 Check out the Website I made for my Team [here](https://www.lucasfischer.com.br/gewinner)
+
