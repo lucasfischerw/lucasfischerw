@@ -1,19 +1,20 @@
 ### Hi there 👋
 
-<!--
-**lucasfischerw/lucasfischerw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+I am Lucas Fischer, a technology enthusiast that loves Robotics and Programming 🤖👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
 
-[![card](https://github-readme-stats.vercel.app/api?username=lucasfischerw&theme=dark&show_icons=true)](https://github.com/lucasfischerw/)
-[![lucasfischerw](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfischerw&hide=html&layout=compact&theme=dark)](https://github.com/lucasfischerw/)
+- 🧑‍💼 I’m currently working on personal websites and robot programming for the Brazilian Robotics Competition (OBR 2022)
+- 📗 I’m currently learning how to use RobotC
+- ❓ Ask me about programming logic to solve complex problems
+- ☕ Fun fact: I only drink coffee with sugar
+
+
+</br>
+
+<div style="display: flex;">
+  [![card](https://github-readme-stats.vercel.app/api?username=lucasfischerw&theme=dark&show_icons=true)](https://github.com/lucasfischerw/)
+  [![lucasfischerw](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfischerw&hide=html&layout=compact&theme=dark)](https://github.com/lucasfischerw/)
+</div>
