@@ -6,10 +6,9 @@ I am Lucas Fischer, a technology enthusiast that loves Robotics and Programming 
 
 </br>
 
-- 🧑‍💼 I’m currently working on personal websites and robot programming for the Brazilian Robotics Competition (OBR 2022)
-- 📗 I’m currently learning how to use RobotC
-- ❓ Ask me about programming logic to solve complex problems
-- ☕ Fun fact: I only drink coffee with sugar
+- I have been learning programming since I was 14 years old 
+- I’m currently graduating as a Systems Analyst and Developer at Unisinos, São Leopoldo (RS-Brazil)
+- I develop Websites for several clients worldwide, completing 60+ projects during High School
 
 </br>
 
