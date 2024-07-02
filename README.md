@@ -9,23 +9,3 @@ In 2021, I started my path as a freelancer, where I have developed over 70 proje
 I am always looking for new challenges and opportunities to grow in the technology sector. Here you can find some of my adventures in the world of coding
 
 </br>
-
----
-
-</br>
-
-[![card](https://github-readme-stats.vercel.app/api?username=lucasfischerw&theme=dark&show_icons=true)](https://github.com/lucasfischerw/)
-
-</br>
-
-[![lucasfischerw](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfischerw&hide=html&layout=compact&theme=dark)](https://github.com/lucasfischerw/)
-
-</br>
-
----
-
-</br>
-
- - 💻 Check out my Website [here](https://www.lucasfischer.com.br)
- - 🙅 Check out the Website I made for my Team [here](https://www.lucasfischer.com.br/gewinner)
-
